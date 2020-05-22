@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590132261318</updated>
-      <workItem from="1590132264626" duration="3179000" />
+      <workItem from="1590132264626" duration="3505000" />
     </task>
     <task id="LOCAL-00001" summary="qq">
       <created>1590132472596</created>
@@ -117,10 +117,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="qq" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="23" key="CommitChangelistDialog2" timestamp="1590135192603">
+    <state x="163" y="23" key="CommitChangelistDialog2" timestamp="1590135608614">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="163" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1590135192603" />
+    <state x="163" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1590135608614" />
     <state x="67" y="100" key="DiffContextDialog" timestamp="1590133441124">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -145,9 +145,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="436" y="281" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1590133668835" />
-    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup" timestamp="1590135460042">
+    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup" timestamp="1590135591837">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590135460042" />
+    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590135591837" />
   </component>
 </project>
