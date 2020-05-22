@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba67e709-b715-473c-901d-799f7a174c7f" name="Default Changelist" comment="qq">
+      <change beforePath="$PROJECT_DIR$/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/out/production/429/club/banyuan/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/out/production/429/club/banyuan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/out/production/429/club/banyuan/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/429/out/production/429/club/banyuan/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/505/AreaCalculator/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java" />
+  </component>
+  <component name="ProjectId" id="1cFlXThH7cTu6jwHhV23qzP3D9Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba67e709-b715-473c-901d-799f7a174c7f" name="Default Changelist" comment="" />
+      <created>1590132261318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590132261318</updated>
+      <workItem from="1590132264626" duration="3179000" />
+    </task>
+    <task id="LOCAL-00001" summary="qq">
+      <created>1590132472596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590132472596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="qq">
+      <created>1590132941357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590132941357</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qq">
+      <created>1590134294789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590134294790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="qq">
+      <created>1590135040892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590135040892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qq" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="23" key="CommitChangelistDialog2" timestamp="1590135192603">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="163" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1590135192603" />
+    <state x="67" y="100" key="DiffContextDialog" timestamp="1590133441124">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="67" y="100" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1590133441124" />
+    <state x="137" y="23" width="822" height="877" key="NewModule_or_Project.wizard" timestamp="1590133315551">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="137" y="23" width="822" height="877" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1590133315551" />
+    <state x="390" y="23" key="RollbackChangesDialog" timestamp="1590133434460">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="390" y="23" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1590133434460" />
+    <state x="220" y="133" key="Vcs.Push.Dialog.v2" timestamp="1590135107182">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="220" y="133" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1590135107182" />
+    <state x="489" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590133835505">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="489" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590133835505" />
+    <state x="436" y="281" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590133668835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="436" y="281" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1590133668835" />
+    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup" timestamp="1590135460042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="183" y="27" width="838" height="877" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590135460042" />
+  </component>
+</project>
